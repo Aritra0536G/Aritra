@@ -1,4 +1,4 @@
 # Aritra
 This is my first Git repository.
 <br>
-Author - Aritra Sutradhar
+Author - Aritra Sutradhar (BERHAMPORE)
